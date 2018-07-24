@@ -1,0 +1,29 @@
+{
+  "name": "vr_gulp_design",
+  "version": "1.0.0",
+  "description": "Making A wireframe With Gulp For Web Design",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andybit-okutama/VR_web_house_gulp.git"
+  },
+  "author": "andy william",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andybit-okutama/VR_web_house_gulp/issues"
+  },
+  "homepage": "https://github.com/andybit-okutama/VR_web_house_gulp#readme",
+  "devDependencies": {
+    "browser-sync": "^2.24.6",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-compass": "^2.1.0",
+    "gulp-plumber": "^1.2.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-uglify": "^3.0.0"
+  }
+}
